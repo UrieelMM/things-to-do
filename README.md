@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -71,3 +72,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 # things-to-do
 CRUD with ReactSJ, Hooksand and Firebase 
 >>>>>>> df07e179f0ca0b1071f4155fc17c2f6cf8311d8d
+=======
+# things-to-do
+CRUD with Reactjs, Hooks and Firebase
+>>>>>>> 8fc5f0446c6584c9c9470ce8d1bd1168217c76e8
