@@ -1,0 +1,30 @@
+
+.shadows{
+    box-shadow: 5px 15px 20px  rgba(0, 0, 0, .5);
+}
+.text-error{
+    margin-top: 10px;
+    color:#ff2625;
+    font-size: 22px;
+    font-weight: bold;
+}
+.things-to-do{
+    font-family: 'Merienda', cursive;
+}
+.sub-section{
+    font-family: 'Baloo Bhai 2', cursive;
+}
+.btn-edit{
+    background-color: #432344;
+    border: none;
+    color: white;
+    font-size: 16px;
+}
+.btn-delete{
+    background-color: #ff2625;
+    color: white;
+}
+.btn-agregar{
+    background-color: #ffc03d;
+    color: white;
+}
